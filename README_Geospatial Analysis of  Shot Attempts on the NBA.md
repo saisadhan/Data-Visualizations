@@ -1,8 +1,8 @@
-**Welcome to the Geospatial Analysis of all Shot Attempts on the NBA half-court**
+**Welcome to the Geospatial Analysis of all Shot Attempts on the NBA Half-Court!**
 
-[Link to Tableau Public Visualization](https://public.tableau.com/views/GeospatialAnalysisofallShotAttemptsontheNBAhalf-court/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+[Link to My Tableau Public Visualization](https://public.tableau.com/views/MyGeospatialAnalysisofallShotAttemptsontheNBAhalf-court/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
-Thank you for visiting this repository, where we delve into the captivating world of NBA shot analysis through immersive data visualization. Here, you'll discover a series of dynamic dashboards meticulously crafted using Tableau, designed to unravel the intricacies of every field goal attempt made during the 2016-2017 NBA regular season. Let's take a closer look at what awaits you:
+Thank you for visiting this repository, where I delve into the captivating world of NBA shot analysis through immersive data visualization. Here, you'll discover a series of dynamic dashboards meticulously crafted using Tableau, designed to unravel the intricacies of every field goal attempt made during the 2016-2017 NBA regular season. Let's take a closer look at what awaits you:
 
 ### Purpose
 The primary objective of this repository is to provide a comprehensive exploration of NBA shot data, offering insights into player performance, shot efficiency, and court positioning. Through interactive dashboards, users can gain a deeper understanding of player strategies, game dynamics, and the influence of various factors on shot outcomes.
@@ -13,14 +13,14 @@ The primary objective of this repository is to provide a comprehensive explorati
    - Explore shot distribution, patterns, and hotspots to uncover strategic insights and gameplay trends.
    - Gain a holistic view of offensive strategies employed by teams and individual players.
 
-**2. Stephen Curry Shot Chart**
-   - Experience the brilliance of one of the NBA's greatest shooters, Stephen Curry, through a dedicated shot chart.
+**2. My Stephen Curry Shot Chart**
+   - Experience the brilliance of one of the NBA's greatest shooters, Stephen Curry, through my dedicated shot chart.
    - Visualize every shot attempted by Curry with intuitive markers representing shot efficiency and volume.
    - Delve into Curry's shooting prowess, dissecting his shot selection and performance across different court zones.
 
 ### Dataset Overview
-The backbone of these dashboards lies in the meticulous analysis of the provided dataset (NBA.xlsx) present in the folder ['Network Analysis of Chicago Transit Authority (CTA).zip](https://github.com/saisadhan/Data-Visualizations/blob/main/Network%20Analysis%20of%20Chicago%20Transit%20Authority%20(CTA).zip). 
-This dataset encapsulates essential information about each field goal attempt, including player details, shot type, shot zone, shot distance, and game specifics. By leveraging this rich dataset, we unlock a treasure trove of insights into NBA gameplay dynamics.
+The backbone of these dashboards lies in the meticulous analysis of the provided dataset (NBA.xlsx) present in the folder ['My Network Analysis of Chicago Transit Authority (CTA).zip](https://github.com/saisadhan/Data-Visualizations/blob/main/Network%20Analysis%20of%20Chicago%20Transit%20Authority%20(CTA).zip). 
+This dataset encapsulates essential information about each field goal attempt, including player details, shot type, shot zone, shot distance, and game specifics. By leveraging this rich dataset, I unlock a treasure trove of insights into NBA gameplay dynamics.
 
 ### How to Use
 Navigating through these dashboards is an intuitive experience, designed to cater to both novice users and seasoned analysts:
@@ -34,6 +34,6 @@ This repository thrives on collaboration and welcomes contributions from data en
 ### Get Started
 Embark on your journey through the NBA Shot Analysis Dashboard Repository today. Explore, analyze, and discover the hidden narratives within the data. Let's unravel the mysteries of NBA basketball, one shot at a time.
 
-*Your feedback fuels our passion for continuous improvement. Feel free to reach out with any questions, suggestions, or insights. Together, let's unlock the secrets of the game.*
+*Your feedback fuels my passion for continuous improvement. Feel free to reach out with any questions, suggestions, or insights. Together, let's unlock the secrets of the game.*
 
 Happy analyzing!

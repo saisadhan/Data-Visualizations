@@ -1,6 +1,6 @@
 **Welcome to the Geospatial Analysis of all Shot Attempts on the NBA Half-Court!**
 
-[Link to My Tableau Public Visualization](https://public.tableau.com/views/MyGeospatialAnalysisofallShotAttemptsontheNBAhalf-court/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+[Link to My Tableau Public Visualization](https://public.tableau.com/views/GeospatialAnalysisofallShotAttemptsontheNBAhalf-court/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 Thank you for visiting this repository, where I delve into the captivating world of NBA shot analysis through immersive data visualization. Here, you'll discover a series of dynamic dashboards meticulously crafted using Tableau, designed to unravel the intricacies of every field goal attempt made during the 2016-2017 NBA regular season. Let's take a closer look at what awaits you:
 

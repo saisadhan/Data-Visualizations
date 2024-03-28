@@ -4,6 +4,8 @@
 #### Introduction
 This repository hosts a collection of data visualization dashboards crafted to delve into insightful analyses of flight delays across various airlines. Our primary focus lies in dissecting the nuances of departure delays, offering users a comprehensive tool to explore and understand the data with clarity.
 
+[Link to Flight-Delays-Visualization-Dashboard zip folder](https://github.com/saisadhan/Flight-Delays-Visualization-Dashboard/blob/main/Flight-Delays-Visualization-Dashboard.zip)
+
 #### Dataset Overview
 The dataset utilized for this visualization endeavor is sourced from the U.S. Department of Transportation, compiling data on the performance metrics of major airlines operating domestic flights. Specifically, we have extracted the "FlightDelays.xlsx" file, encompassing flight delay records for all U.S. domestic flights in January 2016.
 
